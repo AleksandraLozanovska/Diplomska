@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div class="jumbotron text-center">
+    <h1>Welcome to Movie Recommender</h1>
+    <p class="lead">This application is for movie recommendation. Open the Movies tab, choose a movie according to your mood and let our engine suggest you the best match. </p>
+    <img src="{{url_for('static', filename='4.png')}}" align="middle" width="300" height="300" />
+</div>
+{% endblock %}

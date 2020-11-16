@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<body style="background-image: url({{url_for('static', filename='m.jpg')}}); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
+<br>
+<br>
+    <div style="margin-left:600px; margin-top:100px; ">
+        <h1><b>{{t1}}</b></h1><br>
+        <h3>Recommended movie:</h3>
+        <h2 style="color: cadetblue">{{s1}}</h2>
+    </div>
+</body>
+{% endblock %}

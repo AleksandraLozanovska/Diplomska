@@ -1,0 +1,296 @@
+movie_id,title,uri,genre
+19995,Avatar,http://dbpedia.org/resource/Avatar_(2009_film),Action  Adventure Fantasy  Science Fiction
+285,Pirates of the Caribbean: At World's End,http://dbpedia.org/resource/Pirates_of_the_Caribbean:_At_World%27s_End,Adventure Fantasy Action
+206647,Spectre,http://dbpedia.org/resource/Spectre_(2015_film),Action Adventure Crime
+49026,The Dark Knight Rises,http://dbpedia.org/resource/The_Dark_Knight_Rises,Action Adventure Crime
+49529,John Carter,http://dbpedia.org/resource/John_Carter_(film), Action Adventure Science Fiction
+559,Spider-Man 3,http://dbpedia.org/resource/Spider-Man_3,Fantasy Action Adventure
+38757,Tangled,http://dbpedia.org/resource/Tangled,Animation Family
+99861,Avengers: Age of Ultron,http://dbpedia.org/resource/Avengers:_Age_of_Ultron,Action Adventure Science Fiction
+767,Harry Potter and the Half-Blood Prince,http://dbpedia.org/resource/Harry_Potter_and_the_Half-Blood_Prince_(film),Adventure Fantasy Family
+209112,Batman v Superman: Dawn of Justice,http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice,Action Adventure Fantasy
+1452,Superman Returns,http://dbpedia.org/resource/Superman_Returns,Adventure Fantasy Action Science Fiction
+10764,Quantum of Solace,http://dbpedia.org/resource/Quantum_of_Solace,Adventure Action Thriller
+58,Pirates of the Caribbean: Dead Man's Chest,http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest,Adventure Fantasy Action
+57201,The Lone Ranger,http://dbpedia.org/resource/The_Lone_Ranger_(2013_film),Action Adventure Western
+49521,Man of Steel,http://dbpedia.org/resource/Man_of_Steel_(film),Action Adventure Fantasy Science Fiction
+2454,The Chronicles of Narnia: Prince Caspian,http://dbpedia.org/resource/The_Chronicles_of_Narnia:_Prince_Caspian,Adventure Family Fantasy
+24428,The Avengers,http://dbpedia.org/resource/The_Avengers_(2012_film),Science Fiction Action Adventure
+1865,Pirates of the Caribbean: On Stranger Tides,http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides,Adventure Action Fantasy
+41154,Men in Black 3,http://dbpedia.org/resource/Men_in_Black_3,Action Comedy Science Fiction
+122917,The Hobbit: The Battle of the Five Armies,http://dbpedia.org/resource/The_Hobbit:_The_Battle_of_the_Five_Armies,Action Adventure Fantasy
+1930,The Amazing Spider-Man,http://dbpedia.org/resource/The_Amazing_Spider-Man_(2012_film),Action Adventure Fantasy
+20662,Robin Hood,http://dbpedia.org/resource/Robin_Hood_(2018_film),Action Adventure
+57158,The Hobbit: The Desolation of Smaug,http://dbpedia.org/resource/The_Hobbit:_The_Desolation_of_Smaug,Adventure Fantasy
+2268,The Golden Compass,http://dbpedia.org/resource/The_Golden_Compass_(film),Adventure Fantasy
+254,King Kong,http://dbpedia.org/resource/King_Kong_(2005_film),Adventure Drama Action
+597,Titanic,http://dbpedia.org/resource/Titanic_(1997_film),Drama Romance Thriller
+271110,Captain America: Civil War,http://dbpedia.org/resource/Captain_America:_Civil_War,Adventure Action Science Fiction
+44833,Battleship,http://dbpedia.org/resource/Battleship_(film),Thriller Action Adventure Science Fiction
+135397,Jurassic World,http://dbpedia.org/resource/Jurassic_World,Action Adventure Science Fiction Thriller
+37724,Skyfall,http://dbpedia.org/resource/Skyfall,Action Adventure Thriller
+558,Spider-Man 2,http://dbpedia.org/resource/Spider-Man_2,Action Adventure Fantasy
+68721,Iron Man 3,http://dbpedia.org/resource/Iron_Man_3,Action Adventure Science Fiction
+12155,Alice in Wonderland,http://dbpedia.org/resource/Alice_in_Wonderland_(2010_film),Family Fantasy Adventure
+36668,X-Men: The Last Stand,http://dbpedia.org/resource/X-Men:_The_Last_Stand,Adventure Action Science Thriller
+62211,Monsters University,http://dbpedia.org/resource/Monsters_University,Animation Family
+8373,Transformers: Revenge of the Fallen,http://dbpedia.org/resource/Transformers:_Revenge_of_the_Fallen,Science Fiction Action Adventure
+91314,Transformers: Age of Extinction,http://dbpedia.org/resource/Transformers:_Age_of_Extinction,Science Fiction Action Adventure
+68728,Oz: The Great and Powerful,http://dbpedia.org/resource/Oz_the_Great_and_Powerful,Fantasy Adventure Family
+102382,The Amazing Spider-Man 2,http://dbpedia.org/resource/The_Amazing_Spider-Man_2,Action Adventure Fantasy
+20526,TRON: Legacy,http://dbpedia.org/resource/Tron:_Legacy,Adventure Action Science Fiction
+49013,Cars 2,http://dbpedia.org/resource/Cars_2,Animation Family Adventure Comedy
+44912,Green Lantern,http://dbpedia.org/resource/Green_Lantern_(film),Adventure Action Thriller Science Fiction
+10193,Toy Story 3,http://dbpedia.org/resource/Toy_Story_3,Animation Family Comedy
+534,Terminator Salvation,http://dbpedia.org/resource/Terminator_Salvation,Action Science Fiction Thriller
+168259,Furious 7,http://dbpedia.org/resource/Furious_7,Action
+72190,World War Z,http://dbpedia.org/resource/World_War_Z_(film),Action Drama Horror Science Fiction Thriller
+127585,X-Men: Days of Future Past,http://dbpedia.org/resource/X-Men:_Days_of_Future_Past,Action Adventure Fantasy Science Fiction
+54138,Star Trek Into Darkness,http://dbpedia.org/resource/Star_Trek_Into_Darkness,Action Adventure Science Fiction
+81005,Jack the Giant Slayer,http://dbpedia.org/resource/Jack_the_Giant_Slayer,Action Family Fantasy
+64682,The Great Gatsby,http://dbpedia.org/resource/The_Great_Gatsby_(2013_film),Drama Romance
+9543,Prince of Persia: The Sands of Time,http://dbpedia.org/resource/Prince_of_Persia:_The_Sands_of_Time_(film),Adventure Fantasy Action Romance
+68726,Pacific Rim,http://dbpedia.org/resource/Pacific_Rim_(film),Action Science Fiction Adventure
+38356,Transformers: Dark of the Moon,http://dbpedia.org/resource/Transformers:_Dark_of_the_Moon,Action Science Fiction Adventure
+217,Indiana Jones and the Kingdom of the Crystal Skull,http://dbpedia.org/resource/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull,Adventure Action
+105864,The Good Dinosaur,http://dbpedia.org/resource/The_Good_Dinosaur,Adventure Animation Family
+62177,Brave,http://dbpedia.org/resource/Brave_(2012_film),Animation Adventure Comedy Family Action Fantasy
+188927,Star Trek Beyond,http://dbpedia.org/resource/Star_Trek_Beyond,Action Adventure Science Fiction
+10681,WALLÂ·E,http://dbpedia.org/resource/WALL-E,Animation Family
+5174,Rush Hour 3,http://dbpedia.org/resource/Rush_Hour_3,Action Comedy Crime Thriller
+17979,A Christmas Carol,http://dbpedia.org/resource/A_Christmas_Carol_(2009_film),Animation Drama
+76757,Jupiter Ascending,http://dbpedia.org/resource/Jupiter_Ascending,Science Fiction Fantasy Action Adventure
+258489,The Legend of Tarzan,http://dbpedia.org/resource/The_Legend_of_Tarzan_(film),Action Adventure
+246655,X-Men: Apocalypse,http://dbpedia.org/resource/X-Men:_Apocalypse,Science Fiction
+155,The Dark Knight,http://dbpedia.org/resource/The_Dark_Knight_(film),Drama Action Crime Thriller
+14160,Up,http://dbpedia.org/resource/Up_(2009_film),Animation Comedy Family Adventure
+15512,Monsters vs Aliens,http://dbpedia.org/resource/Monsters_vs._Aliens,Animation Family Adventure Science Fiction
+1726,Iron Man,http://dbpedia.org/resource/Iron_Man_(2008_film),Action Science Fiction Adventure
+44826,Hugo,http://dbpedia.org/resource/Hugo_(film),Adventure Drama Family
+8487,Wild Wild West,http://dbpedia.org/resource/Wild_Wild_West,Action Adventure Comedy Science Fiction Western
+1735,The Mummy: Tomb of the Dragon Emperor,http://dbpedia.org/resource/The_Mummy:_Tomb_of_the_Dragon_Emperor,Adventure Action Fantasy
+297761,Suicide Squad,http://dbpedia.org/resource/Suicide_Squad_(film),Action Adventure Crime Fantasy Science Fiction
+2698,Evan Almighty,http://dbpedia.org/resource/Evan_Almighty,Fantasy Comedy Family
+137113,Edge of Tomorrow,http://dbpedia.org/resource/Edge_of_Tomorrow,Action Science Fiction
+9804,Waterworld,http://dbpedia.org/resource/Waterworld,Adventure Action
+14869,G.I. Joe: The Rise of Cobrav,http://dbpedia.org/resource/G.I._Joe:_The_Rise_of_Cobra,Adventure Action Thriller Science Fiction
+150540,Inside Out,http://dbpedia.org/resource/Inside_Out_(2015_film),Drama Comedy Animation Family
+278927,The Jungle Book,http://dbpedia.org/resource/The_Jungle_Book_(2016_film),Family Adventure Drama Fantasy
+10138,Iron Man 2,http://dbpedia.org/resource/Iron_Man_2,Adventure Action Science Fiction
+58595,Snow White and the Huntsman,http://dbpedia.org/resource/Snow_White_and_the_Huntsman,Adventure Fantasy Drama
+102651,Maleficent,http://dbpedia.org/resource/Maleficent_(film),Fantasy Adventure Action Family Romance
+119450,Dawn of the Planet of the Apes,http://dbpedia.org/resource/Dawn_of_the_Planet_of_the_Apes,Science Fiction Action Drama Thriller
+79698,The Lovers,http://dbpedia.org/resource/The_Lovers_(2017_film),Action Adventure Science Fiction Romance
+64686,47 Ronin,http://dbpedia.org/resource/47_Ronin_(2013_film),Drama Action Adventure Fantasy
+100402,Captain America: The Winter Soldier,http://dbpedia.org/resource/Captain_America:_The_Winter_Soldier,Action Adventure Science Fiction
+10192,Shrek Forever After,http://dbpedia.org/resource/Shrek_Forever_After,Comedy Adventure Fantasy Animation Family
+158852,Tomorrowland,http://dbpedia.org/resource/Tomorrowland_(film),Adventure Family Mystery Science Fiction
+177572,Big Hero 6,http://dbpedia.org/resource/Big_Hero_6_(film),Adventure Family Animation Action Comedy
+82690,Wreck-It Ralph,http://dbpedia.org/resource/Wreck-It_Ralph,Family Animation Comedy Adventure
+5255,The Polar Express,http://dbpedia.org/resource/The_Polar_Express_(film),Adventure Animation Family Fantasy
+47933,Independence Day: Resurgence,http://dbpedia.org/resource/Independence_Day:_Resurgence,Action Adventure Science Fiction
+10191,How to Train Your Dragon,http://dbpedia.org/resource/How_to_Train_Your_Dragon_(film),Fantasy Adventure Animation Family
+296,Terminator 3: Rise of the Machines,http://dbpedia.org/resource/Terminator_3:_Rise_of_the_Machines,Action Thriller Science Fiction
+118340,Guardians of the Galaxy,http://dbpedia.org/resource/Guardians_of_the_Galaxy_(film),Action Science Fiction Adventure
+157336,Interstellar,http://dbpedia.org/resource/Interstellar_(film),Adventure Drama Science Fiction
+27205,Inception,http://dbpedia.org/resource/Inception,Action Thriller Science Fiction Mystery Adventure
+315011,Shin Godzilla,http://dbpedia.org/resource/Shin_Godzilla,Action Adventure Drama Horror Science Fiction
+49051,The Hobbit: An Unexpected Journey,http://dbpedia.org/resource/The_Hobbit:_An_Unexpected_Journey,Adventure Fantasy Action
+9799,The Fast and the Furious,http://dbpedia.org/resource/The_Fast_and_the_Furious,Action Crime Thriller
+4922,The Curious Case of Benjamin Button,http://dbpedia.org/resource/The_Curious_Case_of_Benjamin_Button_(film),Fantasy Drama Thriller Mystery Romance
+49538,X-Men: First Class,http://dbpedia.org/resource/X-Men:_First_Class,Action Science Fiction Adventure
+131634,The Hunger Games: Mockingjay - Part 2,http://dbpedia.org/page/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2,Action Adventure Science Fiction Thriller
+27022,The Sorcerer's Apprentice,http://dbpedia.org/resource/The_Sorcerer%27s_Apprentice_(2010_film),Fantasy Adventure Action Comedy Drama
+503,Poseidon,http://dbpedia.org/resource/Poseidon_(film),Adventure Action Drama Thriller
+241259,Alice Through the Looking Glass,http://dbpedia.org/resource/Alice_Through_the_Looking_Glass_(2016_film),Fantasy
+810,Shrek the Third,http://dbpedia.org/resource/Shrek_the_Third,Fantasy Adventure Animation Comedy Family
+68735,Warcraft,http://dbpedia.org/resource/Warcraft_(film),Action Adventure Fantasy
+87101,Terminator Genisys,http://dbpedia.org/resource/Terminator_Genisys,Science Fiction Action Thriller Adventure
+10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,http://dbpedia.org/resource/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader,Adventure Family Fantasy
+676,Pearl Harbor,http://dbpedia.org/resource/Pearl_Harbor_(film),History Romance War
+1858,Transformers,http://dbpedia.org/resource/Transformers_(film),Adventure Science Fiction Action
+1966,Alexander,http://dbpedia.org/resource/Alexander_(2004_film),War History Action Adventure Drama Romance
+675,Harry Potter and the Order of the Phoenix,http://dbpedia.org/resource/Harry_Potter_and_the_Order_of_the_Phoenix_(film),Adventure Fantasy Family Mystery
+674,Harry Potter and the Goblet of Fire,http://dbpedia.org/resource/Harry_Potter_and_the_Goblet_of_Fire_(film),Adventure Fantasy Family
+8960,Hancock,http://dbpedia.org/resource/Hancock_(film),Fantasy Action
+6479,I Am Legend,http://dbpedia.org/resource/I_Am_Legend_(film),Drama Horror Action Thriller Science Fiction
+118,Charlie and the Chocolate Factory,http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory_(film),Adventure Comedy Family Fantasy
+2062,Ratatouille,http://dbpedia.org/resource/Ratatouille_(film),Animation Comedy Family Fantasy
+272,Batman Begins,http://dbpedia.org/resource/Batman_Begins,Action Crime Drama
+10527,Madagascar: Escape 2 Africa,http://dbpedia.org/resource/Madagascar:_Escape_2_Africa,Family Animation
+18360,Night at the Museum: Battle of the Smithsonian,http://dbpedia.org/resource/Night_at_the_Museum:_Battle_of_the_Smithsonian,Adventure Fantasy Action Comedy Family
+2080,X-Men Origins: Wolverine,http://dbpedia.org/resource/X-Men_Origins:_Wolverine,Adventure Action Thriller Science Fiction
+605,The Matrix Revolutions,http://dbpedia.org/resource/The_Matrix_Revolutions,Adventure Action Thriller Science Fiction
+109445,Frozen,http://dbpedia.org/resource/Frozen_(2013_film),Animation Adventure Family
+604,The Matrix Reloaded,http://dbpedia.org/resource/The_Matrix_Reloaded,Adventure Action Thriller Science Fiction
+76338,Thor: The Dark World,http://dbpedia.org/resource/Thor:_The_Dark_World,Action Adventure Fantasy
+76341,Mad Max: Fury Road,http://dbpedia.org/resource/Mad_Max:_Fury_Road,Action Adventure Science Fiction Thriller
+13448,Angels & Demons,http://dbpedia.org/resource/Angels_%26_Demons_(film),Thriller Mystery
+10195,Thor,http://dbpedia.org/resource/Thor_(film),Adventure Fantasy Action
+13053,Bolt,http://dbpedia.org/resource/Bolt_(2008_film),Animation Family Adventure Comedy
+19585,G-Force,http://dbpedia.org/resource/G-Force_(film),Fantasy Action Adventure Family Comedy
+57165,Wrath of the Titans,http://dbpedia.org/resource/Wrath_of_the_Titans,Adventure
+62213,Dark Shadows,http://dbpedia.org/resource/Dark_Shadows_(film),Comedy Fantasy
+177677,Mission: Impossible - Rogue Nation,http://dbpedia.org/resource/Mission:_Impossible_-_Rogue_Nation,Action Adventure Thriller
+7978,The Wolfman,http://dbpedia.org/resource/The_Wolfman_(2010_film),Drama Horror Thriller
+5559,Bee Movie,http://dbpedia.org/resource/Bee_Movie,Family Animation Adventure Comedy
+49444,Kung Fu Panda 2,http://dbpedia.org/resource/Kung_Fu_Panda_2,Animation Family
+10196,The Last Airbender,http://dbpedia.org/resource/The_Last_Airbender,Action Adventure Family Fantasy
+956,Mission: Impossible III,http://dbpedia.org/resource/Mission:_Impossible_III,Adventure Action Thriller
+117251,White House Down,http://dbpedia.org/resource/White_House_Down,Action Drama Thriller
+50321,Mars Needs Moms,http://dbpedia.org/resource/Mars_Needs_Moms,Adventure Animation Family
+11619,Flushed Away,http://dbpedia.org/resource/Flushed_Away,Adventure Animation Comedy Family
+266647,Pan,http://dbpedia.org/resource/Pan_(2015_film),Adventure Family Fantasy
+82703,Mr. Peabody & Sherman,http://dbpedia.org/resource/Mr._Peabody_%26_Sherman,Animation Adventure Family
+652,Troy,http://dbpedia.org/resource/Troy_(film),Adventure Drama War
+80321,Madagascar 3: Europe's Most Wanted,http://dbpedia.org/resource/Madagascar_3:_Europe%27s_Most_Wanted,Animation Family
+36669,Die Another Day,http://dbpedia.org/resource/Die_Another_Day,Adventure Action Thriller
+43074,Ghostbusters,http://dbpedia.org/resource/Ghostbusters,Action Fantasy Comedy
+95,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),Action Thriller Science Fiction Adventure
+608,Men in Black II,http://dbpedia.org/resource/Men_in_Black_II,Action Comedy Science Fiction
+2310,Beowulf,http://dbpedia.org/resource/Beowulf_(2007_film),Adventure Action Animation
+140300,Kung Fu Panda 3,http://dbpedia.org/resource/Kung_Fu_Panda_3,Action Adventure Animation Comedy Family
+81188,Rise of the Guardians,http://dbpedia.org/resource/Rise_of_the_Guardians,Fantasy Animation Family
+7552,Fun with Dick and Jane,http://dbpedia.org/resource/Fun_with_Dick_and_Jane_(2005_film),Comedy
+616,The Last Samurai,http://dbpedia.org/resource/The_Last_Samurai,Drama Action War History
+147441,Exodus: Gods and Kings,http://dbpedia.org/resource/Exodus:_Gods_and_Kings,Adventure Drama Action
+13475,Star Trek,http://dbpedia.org/resource/Star_Trek_(film),Science Fiction Action Adventure
+557,Spider-Man,http://dbpedia.org/resource/Spider-Man_(2002_film),Fantasy Action
+82702,How to Train Your Dragon 2,http://dbpedia.org/resource/How_to_Train_Your_Dragon_2,Fantasy Action Adventure Animation Comedy Family
+205584,Gods of Egypt,http://dbpedia.org/resource/Gods_of_Egypt_(film),Fantasy
+10048,Stealth,http://dbpedia.org/resource/Stealth_(film),Action
+13183,Watchmen,http://dbpedia.org/resource/Watchmen_(film),Action Mystery Science Fiction
+944,Lethal Weapon 4,http://dbpedia.org/resource/Lethal_Weapon_4,Action Adventure Comedy Crime Thriller
+1927,Hulk,http://dbpedia.org/resource/Hulk_(film),Drama Action Science Fiction
+72559,G.I. Joe: Retaliation,http://dbpedia.org/resource/G.I._Joe:_Retaliation,Adventure Action Science Fiction Thriller
+7364,Sahara,http://dbpedia.org/resource/Sahara_(2005_film),Action Adventure Comedy Drama Mystery
+2114,Final Fantasy: The Spirits Within,http://dbpedia.org/resource/Final_Fantasy:_The_Spirits_Within,Adventure Action Animation Fantasy Science Fiction Thriller
+1771,Captain America: The First Avenger,http://dbpedia.org/resource/Captain_America:_The_First_Avenger,Action Adventure Science Fiction
+36643,The World Is Not Enough,http://dbpedia.org/resource/The_World_Is_Not_Enough,Adventure Action Thriller
+8619,Master and Commander: The Far Side of the World,http://dbpedia.org/resource/Master_and_Commander:_The_Far_Side_of_the_World,Adventure
+50620,The Twilight Saga: Breaking Dawn - Part 2,http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_-_Part_2,Adventure Fantasy Drama Romance
+65759,Happy Feet Two,http://dbpedia.org/resource/Happy_Feet_Two,Animation Comedy Family
+1724,The Incredible Hulk,http://dbpedia.org/resource/The_Incredible_Hulk_(film),Science Fiction Action Adventure
+267935,The BFG,http://dbpedia.org/resource/The_BFG_(2016_film),Adventure Family Fantasy
+281957,The Revenant,http://dbpedia.org/resource/The_Revenant_(2015_film),Drama Adventure Thriller Western
+77950,Turbo,http://dbpedia.org/resource/Turbo_(film),Animation Family
+44896,Rango,http://dbpedia.org/resource/Rango_(2011_film),Animation Comedy Family Western Adventure
+270946,Penguins of Madagascar,http://dbpedia.org/resource/Penguins_of_Madagascar,Family Animation Adventure Comedy
+2503,The Bourne Ultimatum,http://dbpedia.org/resource/The_Bourne_Ultimatum_(film),Action Drama Mystery Thriller
+9502,Kung Fu Panda,http://dbpedia.org/resource/Kung_Fu_Panda,Adventure Animation Family Comedy
+102899,Ant-Man,http://dbpedia.org/resource/Ant-Man_(film),Science Fiction Action Adventure
+101299,The Hunger Games: Catching Fire,http://dbpedia.org/resource/The_Hunger_Games:_Catching_Fire,Action Adventure Science Fiction Thriller
+228161,Home,http://dbpedia.org/resource/Home_(2015_film),Fantasy Comedy Animation Science Fiction Family
+74,War of the Worlds,http://dbpedia.org/resource/War_of_the_Worlds_(2005_film),Adventure Thriller Science Fiction
+8961,Bad Boys II,http://dbpedia.org/resource/Bad_Boys_II,Adventure Action Comedy Thriller Crime
+417859,Puss in Boots,http://dbpedia.org/resource/Puss_in_Boots_(2011_film),Action Adventure Animation Family Fantasy
+27576,Salt,http://dbpedia.org/resource/Salt_(2010_film),Action Mystery Thriller
+86834,Noah,http://dbpedia.org/resource/Noah_(2014_film),Drama Adventure
+673,Harry Potter and the Prisoner of Azkaban,http://dbpedia.org/resource/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),Adventure Fantasy Family
+6972,Australia,http://dbpedia.org/resource/Australia_(2008_film),Drama
+82700,After Earth,http://dbpedia.org/resource/After_Earth,Science Fiction Action Adventure
+10567,Dinosaur,http://dbpedia.org/resource/Dinosaur_(film),Animation Family
+181533,Night at the Museum: Secret of the Tomb,http://dbpedia.org/resource/Night_at_the_Museum:_Secret_of_the_Tomb,Adventure Comedy Fantasy Family
+38055,Megamind,http://dbpedia.org/resource/Megamind,Animation Action Comedy Family Science Fiction
+671,Harry Potter and the Philosopher's Stone,http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher%27s_Stone_(film),Adventure Fantasy Family
+49524,R.I.P.D.,http://dbpedia.org/resource/R.I.P.D.,Fantasy Action Comedy Crime
+22,Pirates of the Caribbean: The Curse of the Black Pearl,http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl,Adventure Fantasy Action
+131631,The Hunger Games: Mockingjay - Part 1,http://dbpedia.org/resource/The_Hunger_Games:_Mockingjay_-_Part_1,Action Adventure Science Fiction Thriller
+591,The Da Vinci Code,http://dbpedia.org/resource/The_Da_Vinci_Code_(film),Thriller Mystery
+172385,Rio 2,http://dbpedia.org/resource/Rio_2,Animation Adventure Comedy Family
+36658,X2,http://dbpedia.org/resource/X2_(film),Adventure Action Science Fiction Thriller
+51497,Fast Five,http://dbpedia.org/resource/Fast_Five,Action Thriller Crime
+58574,Sherlock Holmes: A Game of Shadows,http://dbpedia.org/resource/Sherlock_Holmes:_A_Game_of_Shadows,Adventure Action Crime Mystery
+18823,Clash of the Titans,http://dbpedia.org/resource/Clash_of_the_Titans_(2010_film),Adventure Fantasy Action
+861,Total Recall,http://dbpedia.org/resource/Total_Recall_(2012_film),Action Adventure Science Fiction
+1911,The 13th Warrior,http://dbpedia.org/resource/The_13th_Warrior,Adventure Fantasy Action
+49040,The Bourne Legacy,http://dbpedia.org/resource/The_Bourne_Legacy_(film),Action Thriller
+415,Batman & Robin,http://dbpedia.org/resource/Batman_%26_Robin_(film),Action Crime Fantasy
+8871,How the Grinch Stole Christmas,http://dbpedia.org/resource/How_the_Grinch_Stole_Christmas_(2000_film),Family Comedy Fantasy
+435,The Day After Tomorrow,http://dbpedia.org/resource/The_Day_After_Tomorrow,Action Adventure Science Fiction Thriller
+955,Mission: Impossible II,http://dbpedia.org/resource/Mission:_Impossible_2,Adventure Action Thriller
+2133,The Perfect Storm,http://dbpedia.org/resource/The_Perfect_Storm_(film),Drama
+1979,Fantastic 4: Rise of the Silver Surfer,http://dbpedia.org/resource/Fantastic_Four:_Rise_of_the_Silver_Surfer,Adventure Fantasy Action Thriller
+87827,Life of Pi,http://dbpedia.org/resource/Life_of_Pi_(film),Adventure Drama Action
+1250,Ghost Rider,http://dbpedia.org/resource/Ghost_Rider_(2007_film),Thriller Action Fantasy Horror
+324668,Jason Bourne,http://dbpedia.org/resource/Jason_Bourne_(film),Action Thriller
+9471,Charlie's Angels: Full Throttle,http://dbpedia.org/resource/Charlie%27s_Angels:_Full_Throttle,Action Adventure Comedy
+70981,Prometheus,http://dbpedia.org/resource/Prometheus_(2012_film),Science Fiction Adventure Mystery
+10996,Stuart Little 2,http://dbpedia.org/resource/Stuart_Little_2,Family Adventure Animation Comedy
+68724,Elysium,http://dbpedia.org/resource/Elysium_(film),Science Fiction Action Drama Thriller
+2789,The Chronicles of Riddick,http://dbpedia.org/resource/The_Chronicles_of_Riddick,Action Science Fiction
+97020,RoboCop,http://dbpedia.org/resource/RoboCop,Action Science Fiction
+7459,Speed Racer,http://dbpedia.org/resource/Speed_Racer_(film),Action Family Science Fiction
+42888,How Do You Know,http://dbpedia.org/resource/How_Do_You_Know,Comedy Drama Romance
+37834,Knight and Day,http://dbpedia.org/resource/Knight_and_Day,Action Comedy
+75612,Oblivion,http://dbpedia.org/resource/Oblivion_(2013_film),Action Science Fiction Adventure Mystery
+1895,Star Wars: Episode III - Revenge of the Sith,http://dbpedia.org/resource/Star_Wars:_Episode_III_-_Revenge_of_the_Sith,Science Fiction Adventure Action
+1894,Star Wars: Episode II - Attack of the Clones,http://dbpedia.org/resource/Star_Wars:_Episode_II_-_Attack_of_the_Clones,Adventure Action Science Fiction
+76170,The Wolverine,http://dbpedia.org/resource/The_Wolverine_(film),Action Science Fiction Adventure Fantasy
+1893,Star Wars: Episode I - The Phantom Menace,http://dbpedia.org/resource/Star_Wars:_Episode_I_-_The_Phantom_Menace,Adventure Action Science Fiction
+49519,The Croods,http://dbpedia.org/resource/The_Croods,Adventure Animation Comedy Family Fantasy
+2395,Asterix at the Olympic Games,http://dbpedia.org/resource/Asterix_at_the_Olympic_Games_(film),Fantasy Adventure Comedy Family
+12100,Windtalkers,http://dbpedia.org/resource/Windtalkers,Drama Action History War
+290595,The Huntsman: Winter's War,http://dbpedia.org/resource/The_Huntsman:_Winter%27s_War,Action Adventure Drama
+98566,Teenage Mutant Ninja Turtles,http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles,Adventure Action Fantasy Comedy
+49047,Gravity,http://dbpedia.org/resource/Gravity_(2013_film),Science Fiction Thriller Drama
+9619,Dante's Peak,http://dbpedia.org/resource/Dante%27s_Peak,Action Adventure Thriller
+308531,Teenage Mutant Ninja Turtles: Out of the Shadows,http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows,Action Adventure Fantasy Comedy
+166424,Fantastic Four,http://dbpedia.org/resource/Fantastic_Four_(2005_film),Adventure Fantasy Action Thriller
+1593,Night at the Museum,http://dbpedia.org/resource/Night_at_the_Museum,Action Adventure Comedy Family Fantasy
+254128,San Andreas,http://dbpedia.org/resource/San_Andreas_(film),Action Drama Thriller
+714,Tomorrow Never Dies,http://dbpedia.org/resource/Tomorrow_Never_Dies,Adventure Action Thriller
+2024,The Patriot,http://dbpedia.org/resource/The_Patriot_(2000_film),Drama History War Action
+163,Ocean's Twelve,http://dbpedia.org/resource/Ocean%27s_Twelve,Thriller Action Adventure Comedy Crime
+787,Mr. & Mrs. Smith,http://dbpedia.org/resource/Mr._%26_Mrs._Smith_(2005_film),Action Comedy Drama Thriller
+262500,Insurgent,http://dbpedia.org/resource/The_Divergent_Series:_Insurgent,Adventure Science Fiction Thriller
+2567,The Aviator,http://dbpedia.org/resource/The_Aviator_(2004_film),Drama
+38745,Gulliver's Travels,http://dbpedia.org/resource/Gulliver%27s_Travels_(2010_film),Comedy
+40805,The Green Hornet,http://dbpedia.org/resource/The_Green_Hornet_(2011_film),Action Crime Comedy
+53182,300: Rise of an Empire,http://dbpedia.org/resource/300:_Rise_of_an_Empire,Action War
+41513,The Smurfs,http://dbpedia.org/resource/The_Smurfs_(film),Animation Family Adventure Comedy Fantasy
+13700,Home on the Range,http://dbpedia.org/resource/Home_on_the_Range_(2004_film),Animation Family
+262504,Allegiant,http://dbpedia.org/resource/The_Divergent_Series:_Allegiant,Adventure Science Fiction Thriller
+39254,Real Steel,http://dbpedia.org/resource/Real_Steel,Action Science Fiction Drama
+77931,The Smurfs 2,http://dbpedia.org/resource/The_Smurfs_2,Fantasy Family Comedy Animation
+1639,Speed 2: Cruise Control,http://dbpedia.org/resource/Speed_2:_Cruise_Control,Action Adventure Thriller
+80274,Ender's Game,http://dbpedia.org/resource/Ender%27s_Game,Science Fiction Action Adventure
+1571,Live Free or Die Hard,http://dbpedia.org/resource/Live_Free_or_Die_Hard,Action Thriller
+120,The Lord of the Rings: The Fellowship of the Ring,http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring,Adventure Fantasy Action
+10204,Around the World in 80 Days,http://dbpedia.org/resource/Around_the_World_in_80_Days_(2004_film),Action Adventure Comedy
+8489,Ali,http://dbpedia.org/resource/Ali_(film),Drama
+10588,The Cat in the Hat,http://dbpedia.org/resource/The_Cat_in_the_Hat_(film),Comedy Fantasy Family
+1495,Kingdom of Heaven,http://dbpedia.org/resource/Kingdom_of_Heaven_(film),Drama Action Adventure History War
+10137,Stuart Little,http://dbpedia.org/resource/Stuart_Little_(film),Animation Fantasy Family Comedy
+10198,The Princess and the Frog,http://dbpedia.org/resource/The_Princess_and_the_Frog,Romance Family Animation Music
+286217,The Martian,http://dbpedia.org/resource/The_Martian_(film),Drama Adventure Science Fiction
+1635,The Island,http://dbpedia.org/resource/The_Island_(2006_film),Action Thriller Science Fiction Adventure
+9679,Gone in Sixty Seconds,http://dbpedia.org/resource/Gone_in_60_Seconds_(2000_film),Action Crime Thriller
+98,Gladiator,http://dbpedia.org/resource/Gladiator_(2000_film),Action Drama Adventure
+180,Minority Report,http://dbpedia.org/resource/Minority_Report_(film),Action Thriller Science Fiction Mystery
+672,Harry Potter and the Chamber of Secrets,http://dbpedia.org/resource/Harry_Potter_and_the_Chamber_of_Secrets,Adventure Fantasy Family
+36557,Casino Royale,http://dbpedia.org/page/Casino_Royale_(1967_film),Adventure Action Thriller
+869,Planet of the Apes,http://dbpedia.org/resource/Planet_of_the_Apes_(2001_film),Thriller Science Fiction Action Adventure
+280,Terminator 2: Judgment Day,http://dbpedia.org/resource/Terminator_2:_Judgment_Day,Action Thriller Science Fiction
+11322,Public Enemies,http://dbpedia.org/resource/Public_Enemies_(2009_film),History Crime Drama
+4982,American Gangster,http://dbpedia.org/resource/American_Gangster_(film),Drama Crime
+36955,True Lies,http://dbpedia.org/resource/True_Lies,Action Thriller
+18487,The Taking of Pelham 1 2 3,http://dbpedia.org/resource/The_Taking_of_Pelham_123_(2009_film),Thriller Drama Crime
+39451,Little Fockers,http://dbpedia.org/resource/Little_Fockers,Comedy Romance
+27581,The Other Guys,http://dbpedia.org/resource/The_Other_Guys,Action Comedy Crime
+9268,Eraser,http://dbpedia.org/resource/Eraser_(film),Action Drama Mystery Thriller
+68718,Django Unchained,http://dbpedia.org/resource/Django_Unchained,Drama Western
+10545,The Hunchback of Notre Dame,http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1996_film),Drama Animation Family
+11688,The Emperor's New Groove,http://dbpedia.org/resource/The_Emperor%27s_New_Groove,Adventure Animation Comedy Family Fantasy
+76163,The Expendables 2,http://dbpedia.org/resource/The_Expendables_2,Action Adventure Thriller
+2059,National Treasure,http://dbpedia.org/resource/National_Treasure_(film),Adventure Action Thriller Mystery
+2486,Eragon,http://dbpedia.org/resource/Eragon_(film),Fantasy Action Adventure Family
+16523,Where the Wild Things Are,http://dbpedia.org/resource/Where_the_Wild_Things_Are_(film),Family Fantasy
+116711,Epic,http://dbpedia.org/resource/Epic_(2013_film),Animation Adventure Family Fantasy
+37710,The Tourist,http://dbpedia.org/resource/The_Tourist_(2010_film),Action Thriller Romance
+9946,End of Days,http://dbpedia.org/resource/End_of_Days_(film),Action Fantasy Horror Mystery
+1372,Blood Diamond,http://dbpedia.org/resource/Blood_Diamond_(film),Drama Thriller Action
+106646,The Wolf of Wall Street,http://dbpedia.org/resource/The_Wolf_of_Wall_Street_(2013_film),Crime Drama Comedy
+414,Batman Forever,http://dbpedia.org/resource/Batman_Forever,Action Crime Fantasy
+56292,Mission: Impossible - Ghost Protocol,http://dbpedia.org/resource/Mission:_Impossible_-_Ghost_Protocol,Action Thriller Adventure
+123,Mission: Impossible (film),http://dbpedia.org/resource/Mission:_Impossible_(film),Action Thriller Adventure

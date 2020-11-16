@@ -1,0 +1,15 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div>
+
+    <h1 style="font-size:70px;"><b> Movie List</b></h1>
+    <img src="{{url_for('static', filename='list.jpg')}}" align="left" width="396" height="676"/>
+    <ul class="list-group">
+    {% for movie in ml: %}
+        {% set movieURI = movie.uri%}
+        <li class="list-group-item" style="font-size:20px;"><a href="movie/{{movie.title}}" >&#9900 {{movie.title}}</a></li>
+    {% endfor %}
+    </ul>
+</div>
+{% endblock %}
